@@ -15,6 +15,6 @@ Com um exemplo prático iremos montar o Gitflow com as tarefas abaixo num ambien
 
 Temos as tarefas e funcionalidades acima listadas, agora vamos entender como elas ficariam quando tiverem sido "finalizadas" seguindo o nosso GitFlow.
 
-![imagem listando as branches](/assets/gitflow-example1.png)
+![imagem listando as branches](/4noobsAssets/gitflow-example1.png)
 
 Ir para: [4.5 Padrão de Commits](padrao-commit.md)
