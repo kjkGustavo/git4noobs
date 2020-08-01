@@ -1,7 +1,7 @@
 # Git4Noobs
 
 <h1 align="center">
-  <img src="/images//git.svg" alt="Git" width="120px" />
+  <img src="/assets//git.svg" alt="Git" width="120px" />
 </h1>
 
 <p align="center">A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.</p>
