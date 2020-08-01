@@ -1,46 +1,47 @@
 # Git4Noobs
+
 <h1 align="center">
   <img src="/images//git.svg" alt="Git" width="120px" />
 </h1>
 
 <p align="center">A ideia é ensinar para os usuários iniciantes que o Git não é nenhum "monstro" de se aprender e também ensinar como usar num ambiente onde há mais de um desenvolvedor atuando no projeto sem desorganizar ou perder algum traço de código no processo.</p>
 
-## ROADMAP 
+## ROADMAP
 
 ### Pré-requisitos
 
-1. [Windows](/1-pre-requisitos/windows.md)
-2. [Linux](/1-pre-requisitos/linux.md)
+1. [Windows](./docs/1-pre-requisitos/windows.md)
+2. [Linux](./docs/1-pre-requisitos/linux.md)
 
 ### O que é git ?
 
-1. [Primeiro Exemplo](/2-o-que-e-git/primeiro-exemplo.md)
-2. [Segundo Exemplo](/2-o-que-e-git/segundo-exemplo.md)
+1. [Primeiro Exemplo](./docs/2-o-que-e-git/primeiro-exemplo.md)
+2. [Segundo Exemplo](./docs/2-o-que-e-git/segundo-exemplo.md)
 
 ### Comandos e Conceitos
 
-1.  [Repositório](/3-comandos/repositorio.md)
-2.  [Commit](/3-comandos/commit.md)
-3.  [Branch](/3-comandos/branch.md)
-4.  [Merge](/3-comandos/merge.md)
-5.  [Status](/3-comandos/status.md)
-6.  [Diff](/3-comandos/diff.md)
-7.  [Tag](/3-comandos/tag.md)
-8.  [Rebase](/3-comandos/rebase.md)
-9.  [Reset](/3-comandos/reset.md)
-10. [Fetch](/3-comandos/fetch.md)
+1.  [Repositório](./docs/3-comandos/repositorio.md)
+2.  [Commit](./docs/3-comandos/commit.md)
+3.  [Branch](./docs/3-comandos/branch.md)
+4.  [Merge](./docs/3-comandos/merge.md)
+5.  [Status](./docs/3-comandos/status.md)
+6.  [Diff](./docs/3-comandos/diff.md)
+7.  [Tag](./docs/3-comandos/tag.md)
+8.  [Rebase](./docs/3-comandos/rebase.md)
+9.  [Reset](./docs/3-comandos/reset.md)
+10. [Fetch](./docs/3-comandos/fetch.md)
 
 ### GitFlow
 
-1. [O que é Git Flow](/4-gitflow/o-que-e-gitflow.md)
-2. [Estrutura de um Git Flow](/4-gitflow/estrutura.md)
-3. [Releases](/4-gitflow/releases.md)
-4. [Exemplos de GitFlow](/4-gitflow/exemplos.md)
-5. [Padrão de Commits](/4-gitflow/padrao-commit.md)
+1. [O que é Git Flow](./docs/4-gitflow/o-que-e-gitflow.md)
+2. [Estrutura de um Git Flow](./docs/4-gitflow/estrutura.md)
+3. [Releases](./docs/4-gitflow/releases.md)
+4. [Exemplos de GitFlow](./docs/4-gitflow/exemplos.md)
+5. [Padrão de Commits](./docs/4-gitflow/padrao-commit.md)
 
 ### Conclusão
 
-1. [Conclusão](/conclusao.md/)
+1. [Conclusão](./docs/conclusao.md/)
 
 ## Autores
 
@@ -63,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
